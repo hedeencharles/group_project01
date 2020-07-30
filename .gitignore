@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Bloack MAC OS .DS_Store files
+.DS_Store
+
+# Bloack our project API Keys Config Files
+config.py
