@@ -26,8 +26,8 @@ Uncover trends that affect enrollment, tuition and admissions:
     - Are colleges recieving more instate or out of state applicants and the percent change overtime.
 
 - Possible source for such data
-    https://collegescorecard.ed.gov/data/documentation/ .
-    https://collegeai.com/data/ 
+    https://collegescorecard.ed.gov/data/documentation/ ,
+    https://collegeai.com/data/ ,
     https://educationdata.urban.org/documentation/#how_to_use 
 
 
