@@ -1,13 +1,5 @@
 # group_project01
 Project 01 - Group 2
-# group_project01
-Project 01 - Group 2
-====================
-
-=========================================================================
-
-# Charles_branch Read.me
-Project 01 - Group 2
 ====================
 
 =========================================================================
@@ -41,6 +33,8 @@ Uncover trends that affect enrollment, tuition and admissions:
     https://collegescorecard.ed.gov/data/documentation/ ,
     https://collegeai.com/data/ ,
     https://educationdata.urban.org/documentation/#how_to_use 
+
+- 
 
 
 
