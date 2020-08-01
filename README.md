@@ -34,7 +34,12 @@ Uncover trends that affect enrollment, tuition and admissions:
     https://collegeai.com/data/ ,
     https://educationdata.urban.org/documentation/#how_to_use 
 
-- 
+- Work flow breakdown
+    - Charles and Pheobe: 
+        - Are going to work with the API and pull the data we need (tuition cost, acceptance rate and number of instate/out of state applicants). Are responsible for setting up data to then be broken into dataframes for further cleaning and analysis.
+    - Nick and Erin
+        - Are going to keep looking for relevant data and forming the questions further until Charlie and Pheobe complete work requesting the API. Nick and Erin will then work together to create DataFrames for analysis.
+    - Once DataFrames are creating, run calculations, run regressions, make graphs, etc. 
 
 
 
