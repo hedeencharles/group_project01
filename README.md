@@ -1,4 +1,4 @@
-# group_project01
+# Charles_branch Read.me
 Project 01 - Group 2
 ====================
 
@@ -15,6 +15,8 @@ Uncover trends that affect enrollment, tuition and admissions:
     1) Specific time frame (ex. 1980-2010)
     2) Narrowing the schools down to a specific region (or school conference) of the united states. 
     3) Using percent changes to keep numbers relative
+    4) Only use "first-time applicants" in data
+    
     
 - The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
     - Each college's percent accetpance rate data and change in acceptance rate over specified time frame.
