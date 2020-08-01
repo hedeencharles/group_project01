@@ -19,7 +19,7 @@ Uncover trends that affect enrollment, tuition and admissions:
     3) Using percent changes to keep numbers relative
     
 - The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
-    - Each college's percent accetpance rate data and change in acceptance rate over specified time frame.
+    - Each college's percent acceptance rate data and change in acceptance rate over specified time frame.
     - In state vs out of state applicants
     - Data from specific region of the US or specific college conference 
 
