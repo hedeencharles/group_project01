@@ -2,6 +2,7 @@
 Project 01 - Group 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Making changes to Readme file in my branch.
 =======
@@ -66,3 +67,7 @@ Adding more information to my Readme file.
 =======
 Hello Group. test....
 >>>>>>> 6ea0c3c46991a965e88c02124c9c7f9d10934632
+=======
+Helllooooo testing testing testing a change in branch to merge THANKS FOR TAKING THE WHEEL CHARLIE!
+one more edit to practice doing it actually correctly
+>>>>>>> 22f8770ab4674c77ea21eab63bbc027911e8270f
