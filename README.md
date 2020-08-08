@@ -1,5 +1,6 @@
 # Charles_branch Read.me
 Project 01 - Group 2
+<<<<<<< HEAD
 ====================
 
 =========================================================================
@@ -56,3 +57,6 @@ Uncover trends that affect enrollment, tuition and admissions:
 
 >>>>>>> ded3e157e38b7299c7e980f8b253f19e79276ddd
 
+=======
+Hello Group. test....
+>>>>>>> cff5435b3c29ec8b580552ba824447db2868dc66
