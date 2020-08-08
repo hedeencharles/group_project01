@@ -1,6 +1,7 @@
 # Charles_branch Read.me
 Project 01 - Group 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Making changes to Readme file in my branch.
 =======
@@ -62,3 +63,6 @@ Uncover trends that affect enrollment, tuition and admissions:
 >>>>>>> cb5e0628885d1234cfebe8d4e4333d50e0887b2b
 
 Adding more information to my Readme file.
+=======
+Hello Group. test....
+>>>>>>> 6ea0c3c46991a965e88c02124c9c7f9d10934632
