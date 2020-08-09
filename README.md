@@ -3,9 +3,12 @@ Project 01 - Group 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Making changes to Readme file in my branch.
 =======
+=======
+>>>>>>> 63485944b5e9d64053dc906e2eda543b4f2bf825
 ====================
 
 =========================================================================
@@ -63,6 +66,7 @@ Uncover trends that affect enrollment, tuition and admissions:
 >>>>>>> ded3e157e38b7299c7e980f8b253f19e79276ddd
 >>>>>>> cb5e0628885d1234cfebe8d4e4333d50e0887b2b
 
+<<<<<<< HEAD
 Adding more information to my Readme file.
 =======
 Hello Group. test....
@@ -71,3 +75,8 @@ Hello Group. test....
 Helllooooo testing testing testing a change in branch to merge THANKS FOR TAKING THE WHEEL CHARLIE!
 one more edit to practice doing it actually correctly
 >>>>>>> 22f8770ab4674c77ea21eab63bbc027911e8270f
+=======
+=======
+Hello Group. test....
+>>>>>>> cff5435b3c29ec8b580552ba824447db2868dc66
+>>>>>>> 63485944b5e9d64053dc906e2eda543b4f2bf825
