@@ -10,7 +10,6 @@ Project write-up:
 - Write this as a brief summary of your interests and intent, including:
 
 Uncover trends that affect enrollment, tuition and admissions:
-<<<<<<< HEAD
     We will be adressing the relationships and trends in data regarding the number of college applications (compare instate and out of state), and change in acceptance rate over time (we plan to determine given what data we find). We will be using percent change over time for acceptance rate in order to keep the analysis relative between schools. We will also compare in state vs out of state applications and percent change over tiem. We will better be able to define the parameters of our project as we mine data, but as of now we know we know we will be scoping in on:
     - Parameters:
     1) Specific time frame (ex. 1980-2010)
