@@ -93,6 +93,7 @@ A relationship we did identify that is worth noting is, the closer that the admi
 ![Admission AZ](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_AZ.png)
 
 **California Region Applications Received vs Students Admitted**
-![Apps Received WA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png) ![Admission WA](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_CA.png)
+![Apps Received WA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png) 
+![Admission WA](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_CA.png)
 
 Given the schools we analyzed, we observed similar trends in all schools accept for Stanford and USC, whos two schools are a different dynamic. If we were to run our analysis again, we would take out Stanford and USC as they are clear outliers and most likely skewed our calculations. Overall, we did observe a positive relationship between application numbers and tuition, as well as a relationship with admissions numbers and number of applicants.
