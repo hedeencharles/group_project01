@@ -68,14 +68,14 @@ Over time, tuition has increased for both in and out of state students. We ident
 ![TUITION OUT-OR](/Analysis_Graphs/state_tuition_graphs/WASHINGTON_OUT.png)
 
 **Oregon Region Applications Received vs Tuition In-State and Out-of-State**
-![Apps Received OR](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_OR.png)
-![TUITION IN-OR](/Analysis_Graphs/state_tuition_graphs/OREGON_IN.png)
-![TUITION OUT-OR](/Analysis_Graphs/state_tuition_graphs/OREGON_OUT.png)
+![Apps Received WA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_OR.png)
+![TUITION IN-WA](/Analysis_Graphs/state_tuition_graphs/OREGON_IN.png)
+![TUITION OUT-WA](/Analysis_Graphs/state_tuition_graphs/OREGON_OUT.png)
 
 **California Region Applications Received vs Tuition In-State and Out-of-State**
-![Apps Received OR](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png)
-![TUITION IN-OR](/Analysis_Graphs/state_tuition_graphs/CALIFORNIA_IN.png)
-![TUITION OUT-OR](/Analysis_Graphs/state_tuition_graphs/CALIFORNIA_OUT.png)
+![Apps Received CA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png)
+![TUITION IN-CA](/Analysis_Graphs/state_tuition_graphs/CALIFORNIA_IN.png)
+![TUITION OUT-CA](/Analysis_Graphs/state_tuition_graphs/CALIFORNIA_OUT.png)
 
 This furthers our belief that there could be a correlation between in and out of state tuition cost and application numbers, with an emphasis on out of state tuition cost.
 Points in time where in and out of state costs differ the most is when the total number of applicants is increasing for some states. Again, we see USC and Stanford presenting a different dynamic and may not be relevant to compare to the other Pac-12 schools.
@@ -93,7 +93,7 @@ A relationship we did identify that is worth noting is, the closer that the admi
 ![Admission AZ](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_AZ.png)
 
 **California Region Applications Received vs Students Admitted**
-![Apps Received WA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png) 
-![Admission WA](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_CA.png)
+![Apps Received CA](/Analysis_Graphs/admiss_vs_apps_graphs/applicants_CA.png) 
+![Admission CA](/Analysis_Graphs/admiss_vs_apps_graphs/admissions_CA.png)
 
 Given the schools we analyzed, we observed similar trends in all schools accept for Stanford and USC, whos two schools are a different dynamic. If we were to run our analysis again, we would take out Stanford and USC as they are clear outliers and most likely skewed our calculations. Overall, we did observe a positive relationship between application numbers and tuition, as well as a relationship with admissions numbers and number of applicants.
