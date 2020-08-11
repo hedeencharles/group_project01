@@ -51,6 +51,7 @@ Final write-up summary:
 ### Question: Is there a relationship between number of applications received per year and tuition for that year?
 
 **Regression Analysis Scatterplot for all Pac-12 Universities Applications vs In-State and Out-of State Tuition Cost**
+
 ![Regression Scatterplot IN](/Analysis_Graphs/regressions_graphs/TTL_apps_vs_tuition_IN.png)
 ![Regression Scatterplot OUT](/Analysis_Graphs/regressions_graphs/TTL_apps_vs_tuition_OUT.png)
 
